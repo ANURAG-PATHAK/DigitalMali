@@ -59,7 +59,7 @@ export function constructMetadata({
       creator: '@_Anurag__Pathak',
     },
     icons,
-    metadataBase: new URL('https://digitalhippo.up.railway.app'),
+    metadataBase: new URL('https://digitalmali-production.up.railway.app'),
     ...(noIndex && {
       robots: {
         index: false,
