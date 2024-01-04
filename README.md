@@ -1,7 +1,9 @@
 # Digital Mali
 
 Digital Mali is a high-quality marketplace for gardening tools and plants, built with React and TypeScript. The application utilizes a modern tech stack including Node.js, npm, and other technologies.
+
 ![Thumbnail](./public/thumbnail.png)
+
 ## Features
 
 - Complete marketplace built from scratch in Next.js 14
