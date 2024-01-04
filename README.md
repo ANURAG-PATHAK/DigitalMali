@@ -60,8 +60,7 @@ Built With
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom designs
 - [Payload CMS](https://payloadcms.com/) - A powerful, self-hosted, and JavaScript-based CMS
 - [TypeScript](https://www.typescriptlang.org/) - A strongly typed superset of JavaScript
-- **App Router**: Manages the routing of the application, ensuring that the correct components are rendered based on the current URL.
-- **tRPC**: A toolkit for building end-to-end typesafe APIs, used in this project to ensure type safety between the server and the client.
+
 
 ## Author
 
