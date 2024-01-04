@@ -1,6 +1,19 @@
 # Digital Mali
 
-Digital Mali is a web application built with React and TypeScript. It uses a modern tech stack including Node.js, npm, and other technologies.
+Digital Mali is a high-quality marketplace for gardening tools and plants, built with React and TypeScript. The application utilizes a modern tech stack including Node.js, npm, and other technologies.
+![Thumbnail](./public/thumbnail.png)
+## Features
+
+- Complete marketplace built from scratch in Next.js 14
+- Beautiful landing page & product pages included
+- Custom artwork included
+- Full admin dashboard
+- Users can purchase and sell their own products
+- Locally persisted shopping cart
+- Authentication using Payload
+- Clean, modern UI using shadcn-ui
+- Admins can verify products to ensure high quality
+- ⌨100% written in TypeScript
 
 ## Getting Started
 
@@ -40,13 +53,15 @@ You can view the deployed application at [digitalmali-production.up.railway.app]
 
 Built With
 
-- [Next.js](https://nextjs.org/) - A React framework for building JavaScript applications
+- [Next.js 14](https://nextjs.org/) - A React framework for building JavaScript applications
 - [React.js](https://reactjs.org/) - A JavaScript library for building user interfaces
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom designs
 - [Payload CMS](https://payloadcms.com/) - A powerful, self-hosted, and JavaScript-based CMS
 - [TypeScript](https://www.typescriptlang.org/) - A strongly typed superset of JavaScript
+- App Router
+- tRPC
 
-## Authors
+## Author
 
 - **Anurag Pathak** -
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/ANURAG-PATHAK)
