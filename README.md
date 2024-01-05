@@ -9,7 +9,7 @@ Digital Mali is a high-quality marketplace for gardening tools and plants, built
 - Complete marketplace built from scratch in Next.js 14
 - Beautiful landing page & product pages included
 - Custom artwork included
-- Email Verfication
+- Email Verification
 - Full admin dashboard
 - Users can purchase and sell their own products
 - Locally persisted shopping cart
