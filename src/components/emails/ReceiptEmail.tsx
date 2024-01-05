@@ -40,17 +40,17 @@ export const ReceiptEmail = ({
   return (
     <Html>
       <Head />
-      <Preview>Your DigitalHippo Receipt</Preview>
+      <Preview>Your DigitalMali Receipt</Preview>
 
       <Body style={main}>
         <Container style={container}>
           <Section>
             <Column>
               <Img
-                src={`${process.env.NEXT_PUBLIC_SERVER_URL}/hippo-email-sent.png`}
+                src={`${process.env.NEXT_PUBLIC_SERVER_URL}/thumbnail.png`}
                 width='100'
                 height='100'
-                alt='DigitalHippo'
+                alt='DigitalMali'
               />
             </Column>
 
@@ -131,7 +131,7 @@ export const ReceiptEmail = ({
                   <Link
                     href={`${process.env.NEXT_PUBLIC_SERVER_URL}/thank-you?orderId=${orderId}`}
                     style={productLink}>
-                    Download Asset
+                    Download Picture (as we do not deliver anything 🥲) If you accidentally paid for anything send us your details on pathakanurag605@gmail.com
                   </Link>
                 </Column>
 
@@ -188,7 +188,7 @@ export const ReceiptEmail = ({
             <Link href='#'>Privacy Policy </Link>
           </Text>
           <Text style={footerCopyright}>
-            Copyright © 2023 DigitalHippo Inc. <br />{' '}
+            Copyright © 2023 DigitalMali Inc. <br />{' '}
             <Link href='#'>All rights reserved</Link>
           </Text>
         </Container>

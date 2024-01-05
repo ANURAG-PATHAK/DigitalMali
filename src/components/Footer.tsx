@@ -58,7 +58,7 @@ const Footer = () => {
         <div className='py-10 md:flex md:items-center md:justify-between'>
           <div className='text-center md:text-left'>
             <p className='text-sm text-muted-foreground'>
-              &copy; {new Date().getFullYear()} All Rights
+              &copy; 2024 All Rights
               Reserved
             </p>
           </div>
