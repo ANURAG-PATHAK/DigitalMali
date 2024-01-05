@@ -151,7 +151,7 @@ const Page = () => {
                           <Check className='h-5 w-5 flex-shrink-0 text-green-500' />
 
                           <span>
-                            Eligible for instant delivery
+                            Eligible for free delivery
                           </span>
                         </p>
                       </div>
