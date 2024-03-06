@@ -2,7 +2,7 @@
 const nextConfig = {
 	images: {
 		unoptimized: true,
-		domains: ['localhost', 'https://digitalmali.onrender.com'],
+		domains: ['localhost', 'digitalmali.onrender.com'],
 		loader: 'imgix',
 		path: '../media',
 	},
