@@ -8,7 +8,7 @@ const nextConfig = {
 			},
 			{
 				protocol: "https",
-				hostname: "digitalmali-production.up.railway.app",
+				hostname: "digitalmali.onrender.com/",
 			},
 		],
 	},
