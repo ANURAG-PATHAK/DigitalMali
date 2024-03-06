@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
 	images: {
-		optimizeImages: true,
+		unoptimized: true,
 		remotePatterns: [
 			{
 				protocol: "http",
