@@ -1,11 +1,18 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
 	images: {
-		unoptimized: true,
-		domains: ['localhost', 'digitalmali.onrender.com'],
-		loader: 'imgix',
-		path: '../media',
+		optimizeImages: true,
+		remotePatterns: [
+			{
+				protocol: "http",
+				hostname: "localhost",
+			},
+			{
+				protocol: "https",
+				hostname: "digitalmali.onrender.com/",
+			},
+		],
 	},
 };
 
-export default nextConfig;
+module.exports = nextConfig;
