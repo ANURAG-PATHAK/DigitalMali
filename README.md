@@ -52,7 +52,7 @@ npm run dev
 ```
 
 4. Deployment
-You can view the deployed application at [digitalmali-production.up.railway.app](https://digitalmali-production.up.railway.app)
+You can view the deployed application at [digitalmali.onrender.com](https://digitalmali.onrender.com/)
 
 Built With
 
